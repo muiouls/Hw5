@@ -1,7 +1,7 @@
 # This is a sample Python script.
 import decouple
 
-TOKEN = ''
+TOKEN = '6248329461:AAG_93BigdK-gnqqdiDrU-Qk5ei2uwrU-F4'
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
